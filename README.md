@@ -51,7 +51,6 @@ Author: Ritu Verma
 
     And more 😅
 ---
----
 # Questions to ask before starting with dashboard
 
 What is the objective of building this PowerBi dashboard?
@@ -78,7 +77,17 @@ Is there any inputs from stakeholders in terms of design and views of the dashbo
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 ---
-## Dataset Understanding
+# Dataset Understanding
+
+- Total Property 22K
+  
+- Total Very Good Condition House 172
+
+- Total Good Condition House 14K
+
+- Total Bad Condition House 1701
+
+---
 # Image of Diamensional Tables with Measure table
 
 ![Screenshot 2024-10-14 181903](https://github.com/user-attachments/assets/20571705-c495-4b9c-ac04-09abf2bb1f26)
