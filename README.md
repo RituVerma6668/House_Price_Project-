@@ -15,6 +15,7 @@ Author: Ritu Verma
 # Tech stacks
 
 \-PowerBi Desktop
+
 \-Excel
 -DAX language
 -DAX studio (for optimizing the report)
