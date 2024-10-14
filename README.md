@@ -4,6 +4,7 @@
 Author: Ritu Verma
 
 Image Description
+![House](https://github.com/user-attachments/assets/6774193b-621b-477c-824e-77b667d884c8)
 
 🌟 Business Understanding🌟
 
