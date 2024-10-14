@@ -21,8 +21,46 @@ Author: Ritu Verma
 -DAX language
 
 -DAX studio (for optimizing the report)
+---
+# PowerBI techniques Learned
 
--Project charter file
+    What are all the questions should be asked before staring the project
+
+    Creating calculated columns
+
+    creating measure using DAX language
+
+    Data modeling
+
+    Using Bookmarks to switch between two visuals
+
+    Page navigation with buttons
+
+    Using divide function to prevent zero division errors
+
+    creating date table using m language
+
+    Dynamic titles based on the applied filters
+
+    Using KPI indicators
+
+    Conditional formatting the values in visuals using icons or background color
+
+    Data validation techniques
+
+    PowerBi services
+
+    Publishing reports to PowerBi services
+
+    Setting up personal gateway to set up the auto refresh of data
+
+    PowerBi App creation
+
+    Collaboration, workspace, access permissions in PowerBi services
+
+    And more 😅
+
+Business related terms
 ---
 # Dashboard
 ![Screenshot 2024-10-14 174135](https://github.com/user-attachments/assets/3dba49b4-dbe4-47b4-83f6-73b5b30b9a9e)
