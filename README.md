@@ -2,7 +2,7 @@
 ---
 ✨ # House Price Prediction ✨
 Author: Ritu Verma
-
+---
 # Image Description
 ![House](https://github.com/user-attachments/assets/6774193b-621b-477c-824e-77b667d884c8)
 ---
@@ -50,7 +50,36 @@ Author: Ritu Verma
 
     And more 😅
 
-Business related terms
+---
+# Questions to ask before starting with dashboard
+
+What is the objective of building this PowerBi dashboard?
+
+In what terms the success of this project will be measured?
+
+What will be time dead-line of the project?
+
+Do the stakeholders expecting pre-view before the actual release?
+
+What are all the hopes stakeholders have out of this project?
+
+what are all fears the stakeholder have in terms of building this dashboard?
+
+Who are all will be using this dashboard and for what purpose?
+
+what are all expectation the stakeholders have, by the completion of this project?
+
+What can go wrong while building this project?
+
+what are all the resources/ data needed to build this dashboard?
+
+Is there any inputs from stakeholders in terms of design and views of the dashboard?
+
+After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
+---
+# Dataset Understanding
+![Screenshot 2024-10-14 181903](https://github.com/user-attachments/assets/20571705-c495-4b9c-ac04-09abf2bb1f26)
+
 ---
 # Dashboard
 ![Screenshot 2024-10-14 174135](https://github.com/user-attachments/assets/3dba49b4-dbe4-47b4-83f6-73b5b30b9a9e)
