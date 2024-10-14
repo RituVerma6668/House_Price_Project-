@@ -5,7 +5,6 @@ Author: Ritu Verma
 
 # Image Description
 ![House](https://github.com/user-attachments/assets/6774193b-621b-477c-824e-77b667d884c8)
-\t
 ---
 # 🌟 Business Understanding🌟
 
@@ -15,11 +14,11 @@ Author: Ritu Verma
 ---
 # Tech stacks
 
-PowerBi Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
-Project charter file
+-PowerBi Desktop
+-Excel
+-DAX language
+-DAX studio (for optimizing the report)
+-Project charter file
 ---
 # Dashboard
 ![Screenshot 2024-10-14 174135](https://github.com/user-attachments/assets/3dba49b4-dbe4-47b4-83f6-73b5b30b9a9e)
