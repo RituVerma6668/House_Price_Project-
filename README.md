@@ -78,6 +78,8 @@ Is there any inputs from stakeholders in terms of design and views of the dashbo
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 ---
 # Dataset Understanding
+# Image of Diamensional Tables with Measure table
+
 ![Screenshot 2024-10-14 181903](https://github.com/user-attachments/assets/20571705-c495-4b9c-ac04-09abf2bb1f26)
 
 ---
