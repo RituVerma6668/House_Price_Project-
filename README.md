@@ -1,6 +1,7 @@
 # House_Price_Project-
 ---
-✨ # House Price Prediction ✨
+# ✨ House Price Prediction ✨
+
 Author: Ritu Verma
 ---
 # Image Description
@@ -20,7 +21,7 @@ Author: Ritu Verma
 
 -DAX language
 
--DAX studio (for optimizing the report)
+-Dax Studio fro Reports
 ---
 # PowerBI techniques Learned
 
