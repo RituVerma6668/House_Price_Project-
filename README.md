@@ -26,35 +26,25 @@ Author: Ritu Verma
 
     What are all the questions should be asked before staring the project
 
-    Creating calculated columns
+    1. Creating calculated columns
 
-    creating measure using DAX language
+    2. creating measure using DAX language
 
-    Data modeling
+    3. Data modeling
 
-    Using Bookmarks to switch between two visuals
+    4. creating date table using m language
 
-    Page navigation with buttons
+    5. Conditional formatting the values in visuals using icons or background color
 
-    Using divide function to prevent zero division errors
+    6. Data validation techniques
 
-    creating date table using m language
+    7. PowerBi services
 
-    Dynamic titles based on the applied filters
+    8. Publishing reports to PowerBi services
 
-    Using KPI indicators
+    9. Setting up personal gateway to set up the auto refresh of data
 
-    Conditional formatting the values in visuals using icons or background color
-
-    Data validation techniques
-
-    PowerBi services
-
-    Publishing reports to PowerBi services
-
-    Setting up personal gateway to set up the auto refresh of data
-
-    PowerBi App creation
+    10. PowerBi App creation
 
     Collaboration, workspace, access permissions in PowerBi services
 
