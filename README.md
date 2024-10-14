@@ -17,8 +17,11 @@ Author: Ritu Verma
 \-PowerBi Desktop
 
 \-Excel
+
 -DAX language
+
 -DAX studio (for optimizing the report)
+
 -Project charter file
 ---
 # Dashboard
