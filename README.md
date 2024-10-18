@@ -51,29 +51,30 @@ Collaboration, workspace, access permissions in PowerBi services
 
 And more 😅
 ---
+
 # Questions to ask before starting with dashboard
 
-What is the objective of building this PowerBi dashboard?
+- What is the objective of building this PowerBi dashboard?
 
-In what terms the success of this project will be measured?
+- In what terms the success of this project will be measured?
 
-What will be time dead-line of the project?
+- What will be time dead-line of the project?
 
-Do the stakeholders expecting pre-view before the actual release?
+- Do the stakeholders expecting pre-view before the actual release?
 
-What are all the hopes stakeholders have out of this project?
+- What are all the hopes stakeholders have out of this project?
 
-what are all fears the stakeholder have in terms of building this dashboard?
+- what are all fears the stakeholder have in terms of building this dashboard?
 
-Who are all will be using this dashboard and for what purpose?
+- Who are all will be using this dashboard and for what purpose?
 
-what are all expectation the stakeholders have, by the completion of this project?
+- what are all expectation the stakeholders have, by the completion of this project?
 
-What can go wrong while building this project?
+- What can go wrong while building this project?
 
-what are all the resources/ data needed to build this dashboard?
+- what are all the resources/ data needed to build this dashboard?
 
-Is there any inputs from stakeholders in terms of design and views of the dashboard?
+- Is there any inputs from stakeholders in terms of design and views of the dashboard?
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 ---
