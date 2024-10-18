@@ -25,31 +25,31 @@ Author: Ritu Verma
 ---
 # PowerBI techniques Learned
 
-    What are all the questions should be asked before staring the project
+ What are all the questions should be asked before staring the project
 
-    1. Creating calculated columns
+1. Creating calculated columns
 
-    2. creating measure using DAX language
+2. creating measure using DAX language
 
-    3. Data modeling
+3. Data modeling
 
-    4. creating date table using m language
+4. creating date table using m language
 
-    5. Conditional formatting the values in visuals using icons or background color
+5. Conditional formatting the values in visuals using icons or background color
 
-    6. Data validation techniques
+6. Data validation techniques
 
-    7. PowerBi services
+7. PowerBi services
 
-    8. Publishing reports to PowerBi services
+8. Publishing reports to PowerBi services
 
-    9. Setting up personal gateway to set up the auto refresh of data
+9. Setting up personal gateway to set up the auto refresh of data
 
-    10. PowerBi App creation
+10. PowerBi App creation
 
-    Collaboration, workspace, access permissions in PowerBi services
+Collaboration, workspace, access permissions in PowerBi services
 
-    And more 😅
+And more 😅
 ---
 # Questions to ask before starting with dashboard
 
